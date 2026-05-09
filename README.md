@@ -2,19 +2,17 @@
 - Project created in November 2022
 - Firmware for a gaming console that uses technology from some of the early games
 - Created using Framebuffers in C++
-- MarioKart built on top of the firmware as a sample game
+- Main code redacted due to university policies
+- Mario Kart was built on top of the firmware as a sample game
 
 
 # MarioKart
 - Help Mario drive through the dangerous road and reach the castle!
-- A 2d mario kart game coded in C for the raspberry pi 4. This was made according to the specifications mentioned in the A4 question. It was built on our solution of A3 for the SNES controller.  
+- A 2D Mario Kart game coded in C for the Raspberry Pi 4. This was made according to the specifications mentioned in the A4 question. It was built for the SNES controller.  
 
 
 
 ## Authors
-
-
-
 - Harsh Patil
 - Sankalp Bartwal
 ## Run Locally
