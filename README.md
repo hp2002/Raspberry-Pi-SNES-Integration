@@ -9,8 +9,8 @@
 
 
 
-- Harsh Patil UCID: 30125049 
-- Sankalp Bartwal UCID: 301320253
+- Harsh Patil
+- Sankalp Bartwal
 ## Run Locally
 
 To run this project locally, use the following command
