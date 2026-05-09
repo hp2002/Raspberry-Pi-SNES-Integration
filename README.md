@@ -1,4 +1,5 @@
 # RPi-SNES Integration
+- Project created in November 2022
 - Firmware for a gaming console that uses technology from some of the early games
 - Created using Framebuffers in C++
 - MarioKart built on top of the firmware as a sample game
