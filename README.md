@@ -1,3 +1,8 @@
+# RPi-SNES Integration
+- Firmware for a gaming console that uses technology from some of the early games
+- Created using Framebuffers in C++
+- MarioKart built on top of the firmware as a sample game
+
 
 # MarioKart
 - Help Mario drive through the dangerous road and reach the castle!
